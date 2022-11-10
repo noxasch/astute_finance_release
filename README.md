@@ -6,6 +6,8 @@ Future version might have restricted feature but all released feature will never
 It is a desktop first application as I strongly believe doing heavy analysis should be done on a pc or laptop. <br>
 Mobile version will follow but only with limited capabilites as it more suit for quick glance and easy data input.
 
+<img width="800" height="625" src="/assets/screenshot-01.webp"  />
+
 Current platform support:
 - [x] MacOS
 - [x] Windows
