@@ -1,4 +1,4 @@
-# Astute Finance by Noxasch
+# Spensieur Finance by Noxasch
 
 Astute Finance is a Personal Expense tracker with analytics that store data locally. <br>
 Future version might have restricted feature but all released feature will never be restricted.
@@ -20,4 +20,5 @@ Public facing repo for astute finance app desktop app
 No code are stored here. Only alpha and beta release will be through here. <br>
 **Stable** release will be on platform default channel unless stated otherwise
 
-Submit bug and feature request in the Issues tab.
+**This is a closed beta release** - if you are not invited, you are on your own.
+
