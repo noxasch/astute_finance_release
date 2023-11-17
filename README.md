@@ -1,4 +1,7 @@
-# Spensieur Finance (BETA) by Noxasch
+# Spensieur Finance (BETA) by Noxasch (MOVED)
+
+## Repo moved
+https://github.com/noxasch/spensieur_release
 
 Spensieur is a Personal Expense tracker with analytics that store data locally. <br>
 This app is release as if and we will not be responsble for any losses.
